@@ -1,0 +1,5 @@
+di_Moh_326,normal,1000,Mohammad Anani,18,male,8109_moha_7368
+ma_Ali_326,director,1000,Ali Anani,22,male,8109_alia_7855
+ma_Nou_313,manager,2000,Nour Moghanna,56,male,1234_nour_3636
+no_Ami_351,normal,5000,Amir ali,22,female,1234_moha_8507
+as_Ami_351,normal,20000,amiiir ali,29,female,1234_moha_8507
